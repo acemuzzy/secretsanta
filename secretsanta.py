@@ -140,8 +140,7 @@ if debug:
     santees = trial_santees
 else:
     print("Full mode")
-    #santees = actual_santees
-    pass
+    santees = actual_santees
 
 ###########################
 # Brute force!            #
