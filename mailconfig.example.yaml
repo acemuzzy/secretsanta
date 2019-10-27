@@ -1,0 +1,12 @@
+server: santa.mail.net
+user: santa@santa.com
+password: elves1234
+santees:
+  Mary: mary@santa.com
+  Joseph: joseph@santa.com
+  Donkey: donkey@santa.com
+  Sheep: sheep@santa.com
+  Cow: cow@santa.com
+  Pig: pig@santa.com
+banned_pairings:
+  Mary: Joseph
